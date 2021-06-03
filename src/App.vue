@@ -1,4 +1,7 @@
 <template>
+나오죠 바로?
+let a = 1;
+
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
